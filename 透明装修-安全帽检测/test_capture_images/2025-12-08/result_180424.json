@@ -1,0 +1,22 @@
+{
+  "capture_info": {
+    "success": true,
+    "image_url": "http://open-mediarecoder.oss-cn-hangzhou.aliyuncs.com/CAPTURE_FILES/c1cbc1d4e86d49a0981f54beea95280a/PY1/BF7683347-1/capture_20251208_180422.jpg?Expires=1765195463&OSSAccessKeyId=LTAI4G6HFM3XPqa8rBjxHJRE&Signature=xTHc1QO%2FM2it88ahDO1zCzf2JBo%3D",
+    "file_id": "capture_20251208_180422",
+    "timestamp": "2025-12-08T18:04:24.718716",
+    "device_serial": "BF7683347",
+    "channel_no": 1
+  },
+  "detection_result": {
+    "person_count": 3,
+    "unworn_count": 3,
+    "worn_count": 0,
+    "conclusion": "存在未佩戴安全帽情况",
+    "is_alert": true
+  },
+  "storage_info": {
+    "image_path": "./test_capture_images\\2025-12-08\\capture_180424.jpg",
+    "result_path": "./test_capture_images\\2025-12-08\\result_180424.json",
+    "saved_time": "2025-12-08T18:04:25.908738"
+  }
+}

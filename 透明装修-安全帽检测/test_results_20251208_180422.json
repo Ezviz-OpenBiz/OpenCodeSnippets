@@ -1,0 +1,53 @@
+{
+  "start_time": "2025-12-08T18:04:22.488168",
+  "steps": [
+    {
+      "name": "同步云抓拍",
+      "success": true,
+      "details": "抓拍成功",
+      "timestamp": "2025-12-08T18:04:24.718716"
+    },
+    {
+      "name": "AI安全帽识别",
+      "success": true,
+      "details": "识别完成: 3人, 未佩戴: 3人",
+      "timestamp": "2025-12-08T18:04:25.648312"
+    },
+    {
+      "name": "下载保存",
+      "success": true,
+      "details": "图片和结果保存成功",
+      "timestamp": "2025-12-08T18:04:25.918474"
+    },
+    {
+      "name": "告警检查",
+      "success": true,
+      "details": "未佩戴: 3, 需要告警: 是",
+      "timestamp": "2025-12-08T18:04:25.918474"
+    },
+    {
+      "name": "语音告警",
+      "success": true,
+      "details": "告警播报成功",
+      "timestamp": "2025-12-08T18:04:28.535074"
+    },
+    {
+      "name": "云端清理",
+      "success": true,
+      "details": "告警图片保留在云端: 存在未佩戴安全帽",
+      "timestamp": "2025-12-08T18:04:28.535074"
+    }
+  ],
+  "success": true,
+  "end_time": "2025-12-08T18:04:28.535074",
+  "duration": 6.046906,
+  "detection_result": {
+    "person_count": 3,
+    "unworn_count": 3,
+    "worn_count": 0,
+    "conclusion": "存在未佩戴安全帽情况",
+    "is_alert": true
+  },
+  "alert_triggered": true,
+  "cloud_file_cleaned": false
+}
