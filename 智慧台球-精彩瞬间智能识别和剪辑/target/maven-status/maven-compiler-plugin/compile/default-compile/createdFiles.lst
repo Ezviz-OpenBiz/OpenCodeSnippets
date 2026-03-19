@@ -1,0 +1,8 @@
+com\billiardsmonitor\ConfigManager.class
+com\billiardsmonitor\VideoClipper.class
+com\billiardsmonitor\ClipFileQuery.class
+com\billiardsmonitor\Main.class
+com\billiardsmonitor\VideoLocator.class
+com\billiardsmonitor\BilliardsAnalyzer.class
+com\billiardsmonitor\BilliardsMonitor.class
+com\billiardsmonitor\VideoRecorder.class
